@@ -1,0 +1,1 @@
+The function DrawLine(startX, startY, endX, endY, color) draws a line between two points with the specified color (e.g., BLACK).
